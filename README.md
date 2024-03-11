@@ -53,6 +53,16 @@
 15. (26:16:33) End to End Gen AI Project using Google Gemini Pro
 16. (28:24:14) Webinar - Generative AI Revolution: The Future
 
+## 4.2 - GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2 [![YouTube](https://www.youtube.com/watch?v=x0AnCE9SE4A)
+1. (0:00:21) Introduction What We will Learn
+2. (0:01:36) Langchain Crash Course
+3. (1:18:26) Chat With PDF Using Langchain And Astradb
+4. (1:41:21) Blog Generation Using LLAMA 2 LLM Models
+5. (2:16:21) End To End LLm Projects Using Pinecone VectorDB
+6. (2:52:02) Google Gemini Pro Demo
+7. (3:20:11) Multi Language Invoice Extractor LLm Project
+8. (3:46:02) Conversational Q&A Chatbot Using Gemini Pro API
+
 ## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
 ![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/ebaa03ec-4370-4ea0-989d-5314370cd2da)
 
