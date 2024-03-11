@@ -34,6 +34,8 @@
 4. Encoder Decoder, Attention is all you need ,Seq to Seq 
 5. Transformers
 
+## 4.1 - Mega Concept Revisor - GENAI - FreeCodeCamp [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=mEsleV16qdo)
+
 ## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
 ![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/ebaa03ec-4370-4ea0-989d-5314370cd2da)
 
