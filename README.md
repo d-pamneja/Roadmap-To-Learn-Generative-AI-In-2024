@@ -36,6 +36,23 @@
 
 ## 4.1 - Mega Concept Revisor - GENAI - FreeCodeCamp [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=mEsleV16qdo)
 
+1. (00:00:00) DAY 1: Introduction to Generative AI Community Course
+2. (01:44:14) DAY 2: Introduction to OpenAI and understanding the OpenAI API
+3. (03:37:49) DAY 3: Introduction to LangChain
+⌨️ (05:16:48) Day 4: Hugging Face API + Langchain
+⌨️ (07:13:08) DAY 5: Memory in Langchain
+⌨️ (09:07:53) DAY 6: LLM Generative AI Project using OpenAI & LangChain
+⌨️ (11:03:29) DAY 7: LLM Generative AI Project & Deployment
+⌨️ (13:09:02) DAY 8: Introduction to Vector Database for AI & LLM
+⌨️ (14:52:41) DAY 9: Mastering Vector Databases with Pinecone
+⌨️ (17:02:19) DAY 10: Mastering ChromaDB Vector Databases
+⌨️ (19:04:25) DAY 11: Introducing Meta Llama 2
+⌨️ (20:54:33) DAY 12: End to End Medical Chatbot Project, Part 1
+⌨️ (22:36:05) DAY 13: End to End Medical Chatbot Project, Part 2
+⌨️ (24:22:10) Generative AI: Everything You need to know about Gemini Pro LLM Models
+⌨️ (26:16:33) End to End Gen AI Project using Google Gemini Pro
+⌨️ (28:24:14) Webinar - Generative AI Revolution: The Future
+
 ## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
 ![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/ebaa03ec-4370-4ea0-989d-5314370cd2da)
 
